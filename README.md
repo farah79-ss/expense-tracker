@@ -3,6 +3,15 @@
 A desktop app to record expenses, categorize them, and see spending reports.
 Built with **Python**, **Tkinter**, and **SQLite**.
 
+## Screenshots
+Main window (add / edit / delete, filter, totals):
+
+![Main window](screenshots/main.png)
+
+Report window (by category and by month):
+
+![Report](screenshots/report.png)
+
 ## Features
 - Add, edit, delete expenses (full CRUD)
 - Categories and category filter
